@@ -1,6 +1,7 @@
 # ETHEREUM PET SHOP
 ## ブロックチェーン アプリケーションプロジェクト 
 Enthereum スマートコントラクト開発
+* [SolidityとTruffleでペットショップのDappをつくる](https://github.com/nekoharuyuki/Blockchain-NeCoin/wiki/Solidity%E3%81%A8Truffle%E3%81%A7%E3%83%9A%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%AEDapp%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B)
 
 # ETHEREUM PET SHOP
 
@@ -32,6 +33,3 @@ Git
 ## 参考サイト
 ◾️　ETHEREUM PET SHOP  
 http://truffleframework.com/tutorials/pet-shop#migration
-
-◾️　【イーサリアム】 SolidityとTruffleでペットショップのDappをつくる！  
-https://zoom-blc.com/how-to-create-first-dapp
